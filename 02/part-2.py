@@ -1,6 +1,5 @@
 box_ids = []
 
-
 with open("./02/input.txt") as input:
   for line in input:
     box_ids.append(line)
